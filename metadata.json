@@ -1,0 +1,6 @@
+{
+  "name": "Advance Auto Workshop",
+  "description": "Commercial-grade automotive workshop management and POS system with job cards, vehicle tracking, inventory, invoicing, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
